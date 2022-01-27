@@ -1,0 +1,84 @@
+.right{
+    /* padding-left: 4px;
+    margin-inline-end: 2px; */
+    text-align: right;
+    /* text-align: justify; */
+    /* margin-top: 1px;
+    text-align: top-right; */
+    text-align: end;
+}
+.selec{
+    /* border: 1px solid black; */
+    margin-left: 3px; 
+    margin-right: auto; 
+    text-align: justify;
+    
+}
+#logo{
+    border-radius: 20px;
+}
+form{
+    border: 1px solid black;
+    margin-left: auto;
+    width: 70%;
+    margin-right: auto;
+    background-color: rgb(51, 132, 212);
+    text-align: center;
+}
+h3{
+    padding: 7px;
+    text-align: center;
+    background-color: tomato;
+    margin: auto;
+}
+.h3a{
+    padding-top: 100px ;
+}
+.left{
+    text-align: left;
+    text-align: justify;
+}
+
+.next{
+    text-decoration: tomato;
+    position: relative;
+    margin-left: 95%;
+}
+.previous{
+    text-decoration: tomato;
+    position: relative;
+    margin-left: 60%;  
+}
+.submit{
+    text-decoration: tomato;
+    position: relative;
+    margin-left: 70%;
+    border-radius: 2px;
+    background-size: 60px;
+    background-color: tomato;
+}
+#inpt{
+    float: right;
+}
+.inputstyle{
+    width: 50%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border-image: url(border.png) 20% round;
+}
+.inputs{
+    float: right
+}
+.user{
+    display: block;
+}
+.user input{
+    align-items: right;
+    margin-right: 20px;
+}
+.btnsubmit{
+    width: 20%;
+}
